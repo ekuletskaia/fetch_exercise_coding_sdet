@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Fetch.iml" filepath="$PROJECT_DIR$/.idea/Fetch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fetch_coding_exercise_sdet.iml" filepath="$PROJECT_DIR$/.idea/fetch_coding_exercise_sdet.iml" />
     </modules>
   </component>
 </project>
