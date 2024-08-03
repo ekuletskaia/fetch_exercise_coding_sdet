@@ -63,9 +63,6 @@ You have two options to run the tests:
   - `base_page.py`: Base page class with common methods.
   - `game_page.py`: Page object for the game page.
 
-- **tests/**
-  - `environment.py`: Behave environment file for setup and teardown.
-  - `conftest.py`: Pytest fixtures for running tests with pytest.
 
 ## Additional Notes
 
