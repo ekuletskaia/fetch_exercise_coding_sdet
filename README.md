@@ -13,8 +13,8 @@ This project automates the process of finding a fake gold bar on the website [ht
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/find-fake-gold-bar.git
-    cd find-fake-gold-bar
+    git clone https://github.com/ekuletskaia/find_fake_gold_bar_sdet.git
+    cd find-fake-gold-bar_sdet
     ```
 
 2. Install the required packages:
